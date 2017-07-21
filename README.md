@@ -1,2 +1,2 @@
 # Python
-Python学习爬虫的一些记录
+学习Python爬虫的一些记录
